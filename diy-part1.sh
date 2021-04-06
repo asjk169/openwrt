@@ -17,3 +17,4 @@ sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 #sed -i '$a src-git opentopd  https://github.com/sirpdboy/sirpdboy-package' feeds.conf.default
 #sed -i '$a src-git opentopd  https://github.com/rufengsuixing/luci-app-onliner' feeds.conf.default
 git clone https://github.com/siropboy/sirpdboy-package package/sirpdboy-package
+git clone https://github.com/sirpdboy/NetSpeedTest package/NetSpeedTest
